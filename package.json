@@ -1,0 +1,17 @@
+{
+  "name": "gruvbox-soft-ui",
+  "theme": "ui",
+  "version": "0.0.0",
+  "description": "Inspired by gruvbox, but soften the colors to be nicer on the eyes",
+  "keywords": [
+    "ui",
+    "theme",
+    "atom",
+    "gruvbox"
+  ],
+  "repository": "",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
